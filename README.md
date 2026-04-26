@@ -49,6 +49,7 @@ Sou do servidor militar em transição para a área de tecnologia, com formaçã
 </p>
 
 🚀 Projetos em Destaque
+
 🌐 Portfólio Pessoal
 
 Site pessoal com apresentação profissional, formulário de contato via EmailJS e botão de WhatsApp.
