@@ -16,6 +16,7 @@
 </p>
 
 👨‍💻 Sobre mim
+
 Com formação em Gestão Pública e atualmente cursando Análise e Desenvolvimento de Sistemas (ADS). Tenho me dedicado ao desenvolvimento web, construindo projetos práticos para consolidar minha jornada na área de software.
 
 🎓 Estudante de ADS — focado em desenvolvimento web
