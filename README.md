@@ -29,7 +29,6 @@ Com formação em Gestão Pública e atualmente cursando Análise e Desenvolvime
 🚀 Buscando minha primeira oportunidade na área de TI
 
 
-
 🛠️ Tecnologias e Ferramentas
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" title="HTML5"/>
