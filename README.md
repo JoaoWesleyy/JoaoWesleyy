@@ -1,4 +1,4 @@
-<h1 align="center">Olá, eu sou o João Wesley 👋</h1>
+<h1 align="center">Olá 👋</h1>
 <p align="center">
   <b>Desenvolvedor Web em Formação &nbsp;|&nbsp; Estudante de ADS &nbsp;|&nbsp; Servidor Militar</b><br/>
   <sub>Porto Velho, Rondônia — Brasil</sub>
