@@ -16,7 +16,7 @@
 </p>
 
 👨‍💻 Sobre mim
-Sou do servidor militar em transição para a área de tecnologia, com formação em Gestão Pública e atualmente cursando Análise e Desenvolvimento de Sistemas (ADS). Tenho me dedicado ao desenvolvimento web, construindo projetos práticos para consolidar minha jornada na área de software.
+Com formação em Gestão Pública e atualmente cursando Análise e Desenvolvimento de Sistemas (ADS). Tenho me dedicado ao desenvolvimento web, construindo projetos práticos para consolidar minha jornada na área de software.
 
 🎓 Estudante de ADS — focado em desenvolvimento web
 
@@ -25,6 +25,7 @@ Sou do servidor militar em transição para a área de tecnologia, com formaçã
 🌱 Aprendendo JavaScript, Java e boas práticas de desenvolvimento
 
 🚀 Buscando minha primeira oportunidade na área de TI
+
 
 
 🛠️ Tecnologias e Ferramentas
