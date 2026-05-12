@@ -44,13 +44,6 @@ Com formação em Gestão Pública e atualmente cursando Análise e Desenvolvime
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40" title="VS Code"/>
 </p>
 
-📊 GitHub Stats
-<p align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=JoaoWesleyy&show_icons=true&theme=github_dark&hide_border=true&count_private=true" />
-  &nbsp;
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoaoWesleyy&layout=compact&theme=github_dark&hide_border=true" />
-</p>
-
 🚀 Projetos em Destaque
 
 🌐 Portfólio Pessoal
